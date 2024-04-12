@@ -4,4 +4,4 @@ This code is based on the implementation available at  https://github.com/junyan
 
 ## Running the code
 
-To run the code, just run the main.py file in each folder.
+To run the code, run the main.py file in each folder.
